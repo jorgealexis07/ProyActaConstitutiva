@@ -1,0 +1,12 @@
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\bin\Debug\ActaConstitutiva.exe.config
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\bin\Debug\ActaConstitutiva.exe
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\bin\Debug\ActaConstitutiva.pdb
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.csprojResolveAssemblyReference.cache
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.Form1.resources
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.Form2.resources
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.Form3.resources
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.Properties.Resources.resources
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.csproj.GenerateResource.cache
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.csproj.CoreCompileInputs.cache
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.exe
+C:\Users\Yo\source\repos\ActaConstitutiva\ActaConstitutiva\obj\Debug\ActaConstitutiva.pdb
